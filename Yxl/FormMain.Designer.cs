@@ -1,7 +1,7 @@
 ﻿
 namespace Yxl
 {
-    partial class Form1
+    partial class FormMain
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace Yxl
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormMain));
             this.ts = new System.Windows.Forms.ToolStrip();
             this.tv = new System.Windows.Forms.TreeView();
             this.tsbOpen = new System.Windows.Forms.ToolStripButton();
